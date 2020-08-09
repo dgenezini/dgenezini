@@ -14,8 +14,8 @@
 
 [<img align="left" alt="My Linkedin Profile" title="My Linkedin Profile" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/linkedin-original.svg" />][linkedin]
 
-<br />
-<br />
+<br/>
+<br/>
 
 ### Languages and Tools:
 
@@ -35,7 +35,7 @@
 
 [<img align="left" alt="CSS3" title="CSS3" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/css3-plain-wordmark.svg" />][linkedin]
 
-<br />
+      
 
 [<img align="left" alt="MS SQL Server" title="MS SQL Server" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/microsoft-sql-server.svg" />][linkedin]
 
@@ -45,7 +45,7 @@
 
 [<img align="left" alt="Oracle" title="Oracle" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/oracle-original.svg" />][linkedin]
 
-<br />
+   
 
 [<img align="left" alt="GIT" title="GIT" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/git-plain.svg" />][linkedin]
 
@@ -57,10 +57,7 @@
 
 [<img align="left" alt="IdentityServer" title="IdentityServer" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/identityserver.png" />][linkedin]
 
-
-
-<br />
-
+   
 
 [<img align="left" alt="Visual Studio" title="Visual Studio" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/visualstudio-plain.svg" />][linkedin]
 
