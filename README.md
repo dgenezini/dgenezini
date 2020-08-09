@@ -2,9 +2,9 @@
 
 <img alt="I’m currently learning React.js" title="I’m currently learning React.js" src="https://img.shields.io/badge/%F0%9F%8C%B1%20I%E2%80%99m%20currently%20learning-React.js-blue" />
 
-<img alt="I’m currently playing Dead Cells" title="I’m currently playing Dead Cells" src="https://img.shields.io/badge/%F0%9F%8E%AE%20I’m currently playing-Dead Cells on Switch-%235ebf76" />
+<img alt="I’m currently playing Dead Cells" title="I’m currently playing Dead Cells" src="https://img.shields.io/badge/%F0%9F%8E%AE%20I’m currently playing-Dead Cells on Switch-red" />
 
-<img alt="I’m currently reading The Hitchhiker's Guide to The Galaxy" title="I’m currently reading The Hitchhiker's Guide to The Galaxy" src="https://img.shields.io/badge/%F0%9F%93%95%20I%E2%80%99m%20currently%20reading-The%20Hitchhiker's%20Guide%20to%20The%20Galaxy-red" />
+<img alt="I’m currently reading The Hitchhiker's Guide to The Galaxy" title="I’m currently reading The Hitchhiker's Guide to The Galaxy" src="https://img.shields.io/badge/%F0%9F%93%95%20I%E2%80%99m%20currently%20reading-The%20Hitchhiker's%20Guide%20to%20The%20Galaxy-%235ebf76" />
 
 <!--
 <img alt="I’m currently learning-React.js" title="I’m currently learning-React.js" src="https://img.shields.io/badge/%E2%9A%A1%20Fun%20fact-OK-%235ebf76" />
