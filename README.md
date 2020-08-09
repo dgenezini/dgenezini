@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img alt="I’m currently learning-React.js" title="I’m currently learning-React.js" src="https://img.shields.io/badge/%F0%9F%8C%B1%20I%E2%80%99m%20currently%20learning-React.js-blue" />
+<img alt="I’m currently learning React.js" title="I’m currently learning React.js" src="https://img.shields.io/badge/%F0%9F%8C%B1%20I%E2%80%99m%20currently%20learning-React.js-blue" />
+
+<img alt="I’m currently playing Dead Cells" title="I’m currently playing Dead Cells" src="https://img.shields.io/badge/%F0%9F%8E%AE%20I’m currently playing-Dead Cells on Switch-%235ebf76" />
+
+<img alt="I’m currently reading The Hitchhiker's Guide to The Galaxy" title="I’m currently reading The Hitchhiker's Guide to The Galaxy" src="https://img.shields.io/badge/%F0%9F%93%95%20I%E2%80%99m%20currently%20reading-The%20Hitchhiker's%20Guide%20to%20The%20Galaxy-red" />
 
 <!--
 <img alt="I’m currently learning-React.js" title="I’m currently learning-React.js" src="https://img.shields.io/badge/%E2%9A%A1%20Fun%20fact-OK-%235ebf76" />
@@ -31,6 +35,18 @@
 
 [<img align="left" alt="CSS3" title="CSS3" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/css3-plain-wordmark.svg" />][linkedin]
 
+<br />
+
+[<img align="left" alt="MS SQL Server" title="MS SQL Server" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/microsoft-sql-server.svg" />][linkedin]
+
+[<img align="left" alt="Redis" title="Redis" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/redis-plain.svg" />][linkedin]
+
+[<img align="left" alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/mysql-plain.svg" />][linkedin]
+
+[<img align="left" alt="Oracle" title="Oracle" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/oracle-original.svg" />][linkedin]
+
+<br />
+
 [<img align="left" alt="GIT" title="GIT" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/git-plain.svg" />][linkedin]
 
 [<img align="left" alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/docker-plain-wordmark.svg" />][linkedin]
@@ -41,9 +57,10 @@
 
 [<img align="left" alt="IdentityServer" title="IdentityServer" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/identityserver.png" />][linkedin]
 
-[<img align="left" alt="MS SQL Server" title="MS SQL Server" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/microsoft-sql-server.svg" />][linkedin]
 
-[<img align="left" alt="Redis" title="Redis" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/redis-plain.svg" />][linkedin]
+
+<br />
+
 
 [<img align="left" alt="Visual Studio" title="Visual Studio" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/visualstudio-plain.svg" />][linkedin]
 
@@ -57,6 +74,8 @@
 
 [<img align="left" alt="Angular.js" title="Angular.js" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/angularjs-plain.svg" />][linkedin]
 
+[<img align="left" alt="Knockout.js" title="Knockout.js" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/223-2230502_knockout-js-clipart.png" />][linkedin]
+
 [<img align="left" alt="Ionic" title="Ionic" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/ionic-original.svg" />][linkedin]
 
 [<img align="left" alt="Cordova" title="Cordova" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/cordova_logo_dark_gray_large.png" />][linkedin]
@@ -67,13 +86,9 @@
 
 [<img align="left" alt="Linux" title="Linux" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/linux-plain.svg" />][linkedin]
 
-[<img align="left" alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/mysql-plain.svg" />][linkedin]
-
-[<img align="left" alt="Oracle" title="Oracle" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/oracle-original.svg" />][linkedin]
-
 [<img align="left" alt="Photoshop" title="Photoshop" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/photoshop-plain.svg" />][linkedin]
 
-[<img align="left" alt="Knockout.js" title="Knockout.js" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/223-2230502_knockout-js-clipart.png" />][linkedin]
+
 
 
 
