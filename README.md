@@ -25,6 +25,8 @@
 
 [<img align="left" alt=".NET" title=".NET" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/dot-net-plain-wordmark.svg" />][linkedin]
 
+[<img align="left" alt="NUnit" title="NUnit" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/nunit.png" />][linkedin]
+
 [<img align="left" alt="Xamarin" title="Xamarin" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/xamarin-282427.png" />][linkedin]
 
 [<img align="left" alt="Android" title="Android" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/android-plain.svg" />][linkedin]
@@ -34,6 +36,13 @@
 [<img align="left" alt="Javascript" title="Javascript" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/javascript-plain.svg" />][linkedin]
 
 [<img align="left" alt="CSS3" title="CSS3" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/css3-plain-wordmark.svg" />][linkedin]
+
+[<img align="left" alt="IdentityServer" title="IdentityServer" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/identityserver.png" />][linkedin]
+
+[<img align="left" alt="Visual Studio" title="Visual Studio" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/visualstudio-plain.svg" />][linkedin]
+
+[<img align="left" alt="SignalR" title="SignalR" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/signalr.png" />][linkedin]
+
 
 <br/>
 <br/>
@@ -49,27 +58,6 @@
 <br/>
 <br/>
 
-[<img align="left" alt="GIT" title="GIT" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/git-plain.svg" />][linkedin]
-
-[<img align="left" alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/docker-plain-wordmark.svg" />][linkedin]
-
-[<img align="left" alt="Heroku" title="Heroku" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/heroku-plain-wordmark.svg" />][linkedin]
-
-[<img align="left" alt="NUnit" title="NUnit" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/nunit.png" />][linkedin]
-
-[<img align="left" alt="IdentityServer" title="IdentityServer" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/identityserver.png" />][linkedin]
-
-<br/>
-<br/>
-
-[<img align="left" alt="Visual Studio" title="Visual Studio" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/visualstudio-plain.svg" />][linkedin]
-
-[<img align="left" alt="Powershell" title="Powershell" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/powershell_logo-1024x1024.png" />][linkedin]
-
-[<img align="left" alt="SignalR" title="SignalR" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/signalr.png" />][linkedin]
-
-[<img align="left" alt="Amazon Web Services" title="Amazon Web Services" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/amazonwebservices-original.svg" />][linkedin]
-
 [<img align="left" alt="Bootstrap" title="Bootstrap" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/bootstrap-plain-wordmark.svg" />][linkedin]
 
 [<img align="left" alt="Angular.js" title="Angular.js" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/angularjs-plain.svg" />][linkedin]
@@ -82,14 +70,26 @@
 
 [<img align="left" alt="jQuery" title="jQuery" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/jquery-plain-wordmark.svg" />][linkedin]
 
+<br/>
+<br/>
+
+[<img align="left" alt="GIT" title="GIT" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/git-plain.svg" />][linkedin]
+
+[<img align="left" alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/docker-plain-wordmark.svg" />][linkedin]
+
+[<img align="left" alt="Heroku" title="Heroku" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/heroku-plain-wordmark.svg" />][linkedin]
+
+[<img align="left" alt="Amazon Web Services" title="Amazon Web Services" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/amazonwebservices-original.svg" />][linkedin]
+
+<br/>
+<br/>
+
+[<img align="left" alt="Powershell" title="Powershell" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/powershell_logo-1024x1024.png" />][linkedin]
+
 [<img align="left" alt="Windows" title="Windows" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/windows8-original.svg" />][linkedin]
 
 [<img align="left" alt="Linux" title="Linux" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/linux-plain.svg" />][linkedin]
 
 [<img align="left" alt="Photoshop" title="Photoshop" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/photoshop-plain.svg" />][linkedin]
-
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/danielgenezini/
