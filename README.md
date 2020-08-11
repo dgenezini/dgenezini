@@ -16,6 +16,8 @@ My current interests are Software Architecture, Clean Architecture, Clean Code, 
 
 [<img align="left" alt="My Linkedin Profile" title="My Linkedin Profile" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/linkedin-original.svg" />][linkedin]
 
+[<img align="left" alt="My Stack Overflow Profile" title="My Stack Overflow Profile" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" />][stackoverflow]
+
 <br/>
 <br/>
 
@@ -95,3 +97,4 @@ My current interests are Software Architecture, Clean Architecture, Clean Code, 
 [<img align="left" alt="Photoshop" title="Photoshop" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/photoshop-plain.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/danielgenezini/
+[stackoverflow]: https://stackoverflow.com/users/4058784/daniel-genezini?tab=profile
