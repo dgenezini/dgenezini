@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My current interests are Software Architecture, Clean Architecture, Clean Code, Continuous Integration, and Web and Mobile Development.
+My current interests are Software Architecture, Devops, and Web and Mobile Development.
 
 <!--
 <img alt="I’m currently learning-React.js" title="I’m currently learning-React.js" src="https://img.shields.io/badge/%E2%9A%A1%20Fun%20fact-OK-%235ebf76" />
