@@ -75,8 +75,6 @@ My current interests are Software Architecture, Devops, and Web and Mobile Devel
 
 [<img align="left" alt="Docker" title="Docker" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/docker-plain-wordmark.svg" />][linkedin]
 
-[<img align="left" alt="Heroku" title="Heroku" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/heroku-plain-wordmark.svg" />][linkedin]
-
 [<img align="left" alt="Amazon Web Services" title="Amazon Web Services" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/amazonwebservices-original.svg" />][linkedin]
 
 <br/>
@@ -87,8 +85,6 @@ My current interests are Software Architecture, Devops, and Web and Mobile Devel
 [<img align="left" alt="Windows" title="Windows" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/windows8-original.svg" />][linkedin]
 
 [<img align="left" alt="Linux" title="Linux" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/linux-plain.svg" />][linkedin]
-
-[<img align="left" alt="Photoshop" title="Photoshop" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/photoshop-plain.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/danielgenezini/
 [stackoverflow]: https://stackoverflow.com/users/4058784/daniel-genezini?tab=profile
