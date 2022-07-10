@@ -7,7 +7,10 @@ My current interests are Software Architecture, Devops, and Web and Mobile Devel
 -->
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgenezini&count_private=true&theme=default&show_icons=true)](https://github.com/dgenezini/dgenezini)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgenezini&count_private=true&hide=contribs&theme=default&show_icons=true)](https://github.com/dgenezini/dgenezini)
+
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgenezini&count_private=true&layout=compact&theme=default&langs_count=10)](https://github.com/dgenezini/dgenezini)
 
 ### Connect with me:
