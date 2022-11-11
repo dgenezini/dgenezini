@@ -1,5 +1,10 @@
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing and enforcing .NET code coverage with coverlet](https://blog.genezini.com/p/analyzing-and-enforcing-.net-code-coverage-with-coverlet/)
+- [Enforcing .NET code style rules at compile time](https://blog.genezini.com/p/enforcing-.net-code-style-rules-at-compile-time/)
+- [Defining formatting rules in .NET with EditorConfig](https://blog.genezini.com/p/defining-formatting-rules-in-.net-with-editorconfig/)
+- [VS Code extensions worth trying out](https://blog.genezini.com/p/vs-code-extensions-worth-trying-out/)
+- [Working on multiple Git branches in parallel](https://blog.genezini.com/p/working-on-multiple-git-branches-in-parallel/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
