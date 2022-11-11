@@ -19,6 +19,8 @@ My current interests are Software Architecture, Devops, and Web and Mobile Devel
 
 [<img align="left" alt="My Stack Overflow Profile" title="My Stack Overflow Profile" width="40px" src="https://raw.githubusercontent.com/dgenezini/dgenezini/master/icons/stackoverflow.png" />][stackoverflow]
 
+[<script>alert('test');</script>]
+
 <br/>
 <br/>
 
