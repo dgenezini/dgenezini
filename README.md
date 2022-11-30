@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keep your diagrams updated with continuous delivery](https://blog.genezini.com/p/keep-your-diagrams-updated-with-continuous-delivery/)
 - [Cleaner representation of software architectures with the C4 Model](https://blog.genezini.com/p/cleaner-representation-of-software-architectures-with-the-c4-model/)
 - [Introducing module federation for Blazor components](https://blog.genezini.com/p/introducing-module-federation-for-blazor-components/)
 - [Analyzing and enforcing .NET code coverage with coverlet](https://blog.genezini.com/p/analyzing-and-enforcing-.net-code-coverage-with-coverlet/)
 - [Enforcing .NET code style rules at compile time](https://blog.genezini.com/p/enforcing-.net-code-style-rules-at-compile-time/)
-- [Defining formatting rules in .NET with EditorConfig](https://blog.genezini.com/p/defining-formatting-rules-in-.net-with-editorconfig/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
