@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Interesting Links - 01](https://blog.genezini.com/p/interesting-links-01/)
+- [Interesting Links - 02 &lpar;09-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-02/)
+- [Interesting Links - 01 &lpar;02-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-01-02-dec-2022/)
 - [Keep your diagrams updated with continuous delivery](https://blog.genezini.com/p/keep-your-diagrams-updated-with-continuous-delivery/)
 - [Cleaner representation of software architectures with the C4 Model](https://blog.genezini.com/p/cleaner-representation-of-software-architectures-with-the-c4-model/)
 - [Introducing module federation for Blazor components](https://blog.genezini.com/p/introducing-module-federation-for-blazor-components/)
-- [Analyzing and enforcing .NET code coverage with coverlet](https://blog.genezini.com/p/analyzing-and-enforcing-.net-code-coverage-with-coverlet/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
