@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting Links - 03 &lpar;16-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-03/)
 - [Canceling abandoned requests in ASP.NET Core](https://blog.genezini.com/p/canceling-abandoned-requests-in-asp.net-core/)
 - [Interesting Links - 02 &lpar;09-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-02/)
 - [Interesting Links - 01 &lpar;02-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-01-02-dec-2022/)
 - [Keep your diagrams updated with continuous delivery](https://blog.genezini.com/p/keep-your-diagrams-updated-with-continuous-delivery/)
-- [Cleaner representation of software architectures with the C4 Model](https://blog.genezini.com/p/cleaner-representation-of-software-architectures-with-the-c4-model/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
