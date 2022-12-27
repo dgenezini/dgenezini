@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 tips for improving your productivity with Git](https://blog.genezini.com/p/7-tips-for-improving-your-productivity-with-git/)
 - [Time-out requests in ASP.NET Core with cancellation tokens](https://blog.genezini.com/p/time-out-requests-in-asp.net-core-with-cancellation-tokens/)
 - [Interesting Links - 03 &lpar;16-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-03/)
 - [Canceling abandoned requests in ASP.NET Core](https://blog.genezini.com/p/canceling-abandoned-requests-in-asp.net-core/)
 - [Interesting Links - 02 &lpar;09-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-02/)
-- [Interesting Links - 01 &lpar;02-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-01-02-dec-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
