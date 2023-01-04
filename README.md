@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Aliases: a time-saving secret weapon for improved workflow and productivity](https://blog.genezini.com/p/git-aliases-a-time-saving-secret-weapon-for-improved-workflow-and-productivity/)
 - [Don&#39;t box your logs](https://blog.genezini.com/p/dont-box-your-logs/)
 - [7 tips for improving your productivity with Git](https://blog.genezini.com/p/7-tips-for-improving-your-productivity-with-git/)
 - [Time-out requests in ASP.NET Core with cancellation tokens](https://blog.genezini.com/p/time-out-requests-in-asp.net-core-with-cancellation-tokens/)
 - [Interesting Links - 03 &lpar;16-Dec-2022&rpar;](https://blog.genezini.com/p/interesting-links-03/)
-- [Canceling abandoned requests in ASP.NET Core](https://blog.genezini.com/p/canceling-abandoned-requests-in-asp.net-core/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
