@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run scripts on SQL Server container startup](https://blog.genezini.com/p/how-to-run-scripts-on-sql-server-container-startup/)
 - [Real-time charts with Blazor, SignalR and ApexCharts](https://blog.genezini.com/p/real-time-charts-with-blazor-signalr-and-apexcharts/)
 - [Easier Git rebase of messy branches](https://blog.genezini.com/p/easier-git-rebase-of-messy-branches/)
 - [Why my WireMock mocks aren&#39;t working?](https://blog.genezini.com/p/why-my-wiremock-mocks-arent-working/)
 - [.NET and AWS S3 with LocalStack: How to develop with local S3 buckets](https://blog.genezini.com/p/dotnet-and-aws-s3-with-localstack-how-to-develop-with-local-s3-buckets/)
-- [How to use C# 11 features in .NET 6 or older versions &lpar;even .NET Framework 2.0&rpar;](https://blog.genezini.com/p/how-to-use-c-sharp-11-features-in-dotnet-6-or-older-versions/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
