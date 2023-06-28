@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Who&#39;s that Pokémon game for Android with .NET MAUI and Blazor Hybrid](https://blog.genezini.com/p/building-a-whos-that-pokemon-game-for-android-with-net-maui-and-blazor-hybrid/)
 - [How to run scripts on SQL Server container startup](https://blog.genezini.com/p/how-to-run-scripts-on-sql-server-container-startup/)
 - [Real-time charts with Blazor, SignalR and ApexCharts](https://blog.genezini.com/p/real-time-charts-with-blazor-signalr-and-apexcharts/)
 - [Easier Git rebase of messy branches](https://blog.genezini.com/p/easier-git-rebase-of-messy-branches/)
 - [Why my WireMock mocks aren&#39;t working?](https://blog.genezini.com/p/why-my-wiremock-mocks-arent-working/)
-- [.NET and AWS S3 with LocalStack: How to develop with local S3 buckets](https://blog.genezini.com/p/dotnet-and-aws-s3-with-localstack-how-to-develop-with-local-s3-buckets/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
