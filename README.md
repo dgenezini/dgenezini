@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run cron jobs in a container for easy portability](https://blog.genezini.com/p/how-to-run-cron-jobs-in-a-container-for-easy-portability/)
 - [Lightweight Docker in WSL without Docker Desktop](https://blog.genezini.com/p/lightweight-docker-in-wsl-without-docker-desktop/)
 - [Colorful terminals with Oh My Posh and Windows Terminal](https://blog.genezini.com/p/colorful-terminals-with-oh-my-posh-and-windows-terminal/)
 - [Server-side rendered SPAs with ASP.NET and no Javascript](https://blog.genezini.com/p/server-side-rendered-spas-with-asp.net-and-no-javascript/)
 - [Integration tests with AWS S3 buckets using Localstack and Testcontainers](https://blog.genezini.com/p/integration-tests-with-aws-s3-buckets-using-localstack-and-testcontainers/)
-- [Lessons learned from building a static code analyzer for C#](https://blog.genezini.com/p/lessons-learned-from-building-a-static-code-analyzer-for-csharp/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
