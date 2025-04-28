@@ -1,10 +1,10 @@
 #### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Maintainable Resume with Markdown and Pandoc](https://blog.genezini.com/p/creating-a-maintainable-resume-with-markdown-and-pandoc/)
 - [Down the Rabbit Hole of creating a Home Lab](https://blog.genezini.com/p/down-the-rabbit-hole-of-creating-a-home-lab/)
 - [How to run cron jobs in a container for easy portability](https://blog.genezini.com/p/how-to-run-cron-jobs-in-a-container-for-easy-portability/)
 - [Lightweight Docker in WSL without Docker Desktop](https://blog.genezini.com/p/lightweight-docker-in-wsl-without-docker-desktop/)
 - [Colorful terminals with Oh My Posh and Windows Terminal](https://blog.genezini.com/p/colorful-terminals-with-oh-my-posh-and-windows-terminal/)
-- [Server-side rendered SPAs with ASP.NET and no Javascript](https://blog.genezini.com/p/server-side-rendered-spas-with-asp.net-and-no-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
