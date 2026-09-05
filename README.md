@@ -29,10 +29,10 @@ Senior Software Engineer | .NET & Cloud Architecture | DevOps Enthusiast | Home 
 ![Posts](https://img.shields.io/badge/Posts-35-blue) ![Topics](https://img.shields.io/badge/Topics-.NET%20%7C%20AWS%20%7C%20DevOps%20%7C%20Git-green)
 
 <!-- BLOG-POST-LIST:START -->
+- [Recovering Lost Changes with JetBrains Rider Local History](https://blog.genezini.com/p/recovering-lost-changes-with-jetbrains-rider-local-history/)
 - [Git Revert Multiple Commits of Protected Branches with Git Restore](https://blog.genezini.com/p/git-revert-multiple-commits-of-protected-branches-with-git-restore/)
 - [Creating a Maintainable Resume with Markdown and Pandoc](https://blog.genezini.com/p/creating-a-maintainable-resume-with-markdown-and-pandoc/)
 - [Down the Rabbit Hole of creating a Home Lab](https://blog.genezini.com/p/down-the-rabbit-hole-of-creating-a-home-lab/)
-- [How to run cron jobs in a container for easy portability](https://blog.genezini.com/p/how-to-run-cron-jobs-in-a-container-for-easy-portability/)
 - [Lightweight Docker in WSL without Docker Desktop](https://blog.genezini.com/p/lightweight-docker-in-wsl-without-docker-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
